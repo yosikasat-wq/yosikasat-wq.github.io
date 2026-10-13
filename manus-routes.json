@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Overview"},{"path":"/sessions","title":"Sessions"},{"path":"/simulator","title":"Attack simulator"},{"path":"/policies","title":"Policy matrix"},{"path":"/audit","title":"Audit trail"}]}
